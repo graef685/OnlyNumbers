@@ -1,9 +1,9 @@
 # OnlyNumbers - jQuery Plugin
 
-![](https://img.shields.io/npm/v/only-numbers.svg)
-![](https://img.shields.io/npm/l/only-numbers.svg)
+![](https://img.shields.io/npm/v/jquery-only-numbers.svg)
+![](https://img.shields.io/npm/l/jquery-only-numbers.svg)
 ![](https://img.shields.io/github/size/graef685/OnlyNumbers/jquery.only-numbers.min.js)
-![](https://img.shields.io/npm/dt/only-numbers.svg)
+![](https://img.shields.io/npm/dt/jquery-only-numbers.svg)
 
 	
 

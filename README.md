@@ -29,7 +29,7 @@ You will get it here:
 * Include ```jquery.only-numbers.min.js``` into your Project
 
 ```js
-$(selector).onlyNumbers();
+$('input[type="text"][name="insert_name_here"]').onlyNumbers();
 ```
 
 ### Contributors

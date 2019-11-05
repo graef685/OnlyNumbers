@@ -1,0 +1,30 @@
+{
+  "name": "only-numbers",
+  "title": "jQuery OnlyNumbers",
+  "version": "0.1.0",
+  "description": "jQuery plugin: event listener to allow only numbers in input",
+  "keywords": [
+    "input",
+    "numbers",
+    "jquery"
+  ],
+  "main": "server.js",
+  "scripts": {
+    "preinstall": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graef685/OnlyNumbers.git"
+  },
+  "author": "Patrick Gr�f",
+  "license": "GPL",
+  "docs": "https://github.com/graef685/OnlyNumbers",
+  "bugs": {
+    "url": "https://github.com/graef685/OnlyNumbers/issues"
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
+  },
+  "homepage": "https://github.com/graef685/OnlyNumbers",
+  "dependencies": {}
+}
